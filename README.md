@@ -18,4 +18,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IoannisDimou/IoannisDimou/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
