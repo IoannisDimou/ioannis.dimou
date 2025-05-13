@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently Building skills in full-stack and backend development with Java, JavaScript, C#, HTML, CSS, and SQL, with a focus on backend technologies.
+I’m currently Building skills in full-stack development with Java, JavaScript, C#, HTML, CSS, and SQL, with a focus on backend technologies.
 
 
 ## 🌐 Socials:
